@@ -1,0 +1,49 @@
+*{
+  margin;0
+  padding:o;
+}
+
+img{
+  width: 200px;
+  height:200px;
+  height: 100vh;
+  dislay: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{  
+  display:flex;
+  align-items:center;
+  justyfy-content:center;
+  min-height:100vh;
+  background:#13120e;
+}
+.card{
+  height:90vh;
+  width:50%;
+  background-image-image: url(bottle.jpg.jpg);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no repeat;
+  animation:rot 10s liner infinite;
+}
+.type1{
+  width: 30%;
+  display: block;
+  margin:0px auto;
+}
+.type2{
+  width: 30%;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
